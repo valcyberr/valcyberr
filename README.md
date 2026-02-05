@@ -1,6 +1,6 @@
 ## Olá, meu nome é Valentina!!! 👋
-🎓 Estudante de Informática no IFTO 
-💻 Explorando programação, tecnologia e inovação
+## 🎓 Estudante de Informática no IFTO 
+## 💻 Explorando programação, tecnologia e inovação
 
 <!--
 **valcyberr/valcyberr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
