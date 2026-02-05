@@ -1,7 +1,5 @@
 ## Olá, meu nome é Valentina!!! 👋
-
-<!--
-## 🎓 Estudante de Informática no IFTO 
+🎓 Estudante de Informática no IFTO 
 💻 Explorando programação, tecnologia e inovação
 
 <!--
