@@ -1,4 +1,4 @@
-# 👋 Olá, meu nome é Valentina e seja bem-vindo(a) ao meu GitHub!
+# 👋 Olá, meu nome é Valentina! Seja bem-vindo(a) ao meu GitHub!
 
 🎓 Sou estudante de Informática no IFTO.  
 💻 Aqui compartilho meus estudos, projetos e aprendizados na área de tecnologia.  
