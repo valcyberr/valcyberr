@@ -1,18 +1,10 @@
-## Olá, meu nome é Valentina!!! 👋
-## 🎓 Estudante de Informática no IFTO 
-## 💻 Explorando programação, tecnologia e inovação
+# 👋 Olá, seja bem-vindo(a) ao meu GitHub!
 
-<!--
-**valcyberr/valcyberr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Sou estudante de Informática no IFTO.  
+💻 Aqui compartilho meus estudos, projetos e aprendizados na área de tecnologia.  
+🚀 Sempre buscando evoluir e aprender coisas novas no mundo da programação.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Áreas de interesse
+- Programação
+- Tecnologia
+- Desenvolvimento de sistemas
